@@ -1,4 +1,4 @@
-# Month 4: Azure Serverless Services
+# Month 3: Azure Serverless Services
 
 ## Session Abstract
 
